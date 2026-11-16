@@ -85,17 +85,17 @@ DAX patterns used: `CALCULATE`, `DIVIDE` (safe division), `SUMX` (row-level iter
 ### 1. Overview
 High-level business scale — Total Loan Disbursed, Total Customers, NPA %, Collection Rate %, monthly disbursement trend, top cities by loan volume, and loan distribution by employment type.
 
-![Overview Page](Overview.png)
+[Overview Page](Overview.png)
 
 ### 2. Risk & NPA Analysis
 Risk concentration view — NPA Amount & %, High Risk Customer count, Average Credit Score, high-risk cities by NPA, loan distribution across DPD buckets, and credit score distribution.
 
-![Risk & NPA Analysis Page](Risk_and_NPA.png)
+[Risk & NPA Analysis Page](Risk_and_NPA.png)
 
 ### 3. Collections & Recovery
 Recovery performance view — Total EMI Collected, Total Recovered Amount, Recovery Rate %, monthly EMI collection trend, collections outcome breakdown, and recovery amount by city.
 
-![Collections & Recovery Page](Collection_and_Recovery.png)
+[Collections & Recovery Page](Collection_and_Recovery.png)
 
 ---
 
